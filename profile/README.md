@@ -1,4 +1,4 @@
-# 🧠 AI Student Association at CU Denver <img src="/assets/AI-StudentAssociation_logo.png" alt="Banner" width="50" />
+# 🧠 AI Student Association at CU Denver
 
 Welcome to the **AI Student Association** at CU Denver! We are a student-led organization dedicated to exploring the applications of artificial intelligence, data science, and machine learning.
 
