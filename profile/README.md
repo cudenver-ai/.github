@@ -1,6 +1,4 @@
-# 🧠 AI Student Association at CU Denver
-
-![AI Student Association Banner](https://avatars.githubusercontent.com/u/181294035?s=400&u=5eedf9ce209ef31016f6728d74b1b8c7aaa21ce9&v=4)
+# 🧠 AI Student Association at CU Denver <img src="/assets/AI-StudentAssociation_logo.png" alt="Banner" width="100" />
 
 Welcome to the **AI Student Association** at CU Denver! We are a student-led organization dedicated to exploring the applications of artificial intelligence, data science, and machine learning.
 
@@ -14,9 +12,7 @@ The AI Student Association at CU Denver is a collaborative platform for any AI e
 
 ## 🏆 Our Projects
 
-### [The Decoy Challenge](https://github.com/cudenver-ai/Adversarial-Machine-Learning)
-
-![Decoy Challenge](https://cudenver-ai.github.io/)
+### 🚀 [The Decoy Challenge](https://cudenver-ai.github.io/)
 
 **The Decoy Challenge** focuses on generating adversarial examples that can mislead a machine learning model trained on the CIFAR-10 dataset.
 
@@ -39,28 +35,39 @@ The AI Student Association at CU Denver is a collaborative platform for any AI e
 
 ## 🤝 Board Members
 
-Meet the dedicated team driving the AI Student Association forward. Click on their GitHub and LinkedIn profiles to connect!
+Meet the dedicated team driving the AI Student Association forward. Click on their 🐱 GitHub and 💼 LinkedIn profiles to connect!
 
 | **Role**                  | **Name**                | **GitHub**                                     | **LinkedIn**                                                 |
 |---------------------------|-------------------------|------------------------------------------------|--------------------------------------------------------------|
-| **President**             | *Vicente Ramos*         | [GitHub Profile](https://github.com/ramosv)    | [LinkedIn Profile](https://www.linkedin.com/in/ramosv/)      |
-| **Vice President**        | *Mohamed Abdel-Hafiz*   | [GitHub Profile](https://github.com/abdelhafizm)| [LinkedIn Profile](https://www.linkedin.com/in/abdelhafizm/) |
-| **Treasurer**             | *Sundous Hussein*       | [GitHub Profile](https://github.com/SundousHussein)| [LinkedIn Profile](https://www.linkedin.com/in/sundous-hussien/) |
-| **Outreach Coordinator**  | *Sumaiya Shrabony*      | [GitHub Profile](https://github.com/safrin96)   | [LinkedIn Profile](https://www.linkedin.com/in/sumaiya-shrabony/) |
-| **Brand Strategist**      | *An (Andy) Tran*        | [GitHub Profile](https://github.com/Andy2Tran)  | [LinkedIn Profile](https://www.linkedin.com/in/an-tran-905818244/) |
-| **Technology Officer**    | *Elyas Larfi*           | [GitHub Profile](https://github.com/ElyasYassin)| [LinkedIn Profile](https://www.linkedin.com/in/elyaslarfi/) |
-| **Information Officer**   | *Darya Vojjina*         | [GitHub Profile](https://github.com/dvojjina)   | [LinkedIn Profile](https://www.linkedin.com/in/darya-vojjina-0a1189331/) |
+| **President**             | *Vicente Ramos*         | [GitHub](https://github.com/ramosv)    | [LinkedIn](https://www.linkedin.com/in/ramosv/)      |
+| **Vice President**        | *Mohamed Abdel-Hafiz*   | [GitHub](https://github.com/abdelhafizm)| [LinkedIn](https://www.linkedin.com/in/abdelhafizm/) |
+| **Treasurer**             | *Sundous Hussein*       | [GitHub](https://github.com/SundousHussein)| [LinkedIn](https://www.linkedin.com/in/sundous-hussien/) |
+| **Outreach Coordinator**  | *Sumaiya Shrabony*      | [GitHub](https://github.com/safrin96)   | [LinkedIn](https://www.linkedin.com/in/sumaiya-shrabony/) |
+| **Brand Strategist**      | *An (Andy) Tran*        | [GitHub](https://github.com/Andy2Tran)  | [LinkedIn](https://www.linkedin.com/in/an-tran-905818244/) |
+| **Technology Officer**    | *Elyas Larfi*           | [GitHub](https://github.com/ElyasYassin)| [LinkedIn](https://www.linkedin.com/in/elyaslarfi/) |
+| **Information Officer**   | *Darya Vojjina*         | [GitHub](https://github.com/dvojjina)   | [LinkedIn](https://www.linkedin.com/in/darya-vojjina-0a1189331/) |
 
 
 ---
 
 ## 📅 Upcoming Events
 
-- **AI Workshop Series:** Dates and details coming soon.
-- **Hackathons:** Information about upcoming hackathons.
-- **Guest Lectures:** Featuring industry experts and thought leaders.
+### **Path to Ph.D**
 
-*(Add more events as necessary)*
+<div style="display: flex; align-items: center;">
+
+  <div style="flex: 1;">
+    <h3>Path to Ph.D</h3>
+    <p>Join us for an insightful event on the journey to obtaining a Ph.D. in AI and related fields. Learn from experienced researchers and get tips on navigating the doctoral process.</p>
+    <a href="https://www.instagram.com/p/DCAthg-NStJ/" target="_blank">Learn More</a>
+  </div>
+
+  <div style="flex: 1;">
+    <img src="assets/Path_To_PhD_Flyer.png" alt="Path to Ph.D Flyer" width="300" />
+  </div>
+
+</div>
+
 
 ---
 
@@ -74,6 +81,6 @@ Meet the dedicated team driving the AI Student Association forward. Click on the
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
