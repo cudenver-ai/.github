@@ -12,7 +12,7 @@ The AI Student Association at CU Denver is a collaborative platform for any AI e
 
 ## 🏆 Our Projects
 
-### 🚀 [The Decoy Challenge](https://cudenver-ai.github.io/)
+### [The Decoy Challenge](https://cudenver-ai.github.io/)
 
 **The Decoy Challenge** focuses on generating adversarial examples that can mislead a machine learning model trained on the CIFAR-10 dataset.
 
