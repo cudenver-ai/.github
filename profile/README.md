@@ -1,4 +1,4 @@
-# 🧠 AI Student Association at CU Denver <img src="/assets/AI-StudentAssociation_logo.png" alt="Banner" width="100" />
+# 🧠 AI Student Association at CU Denver <img src="/assets/AI-StudentAssociation_logo.png" alt="Banner" width="50" />
 
 Welcome to the **AI Student Association** at CU Denver! We are a student-led organization dedicated to exploring the applications of artificial intelligence, data science, and machine learning.
 
@@ -63,7 +63,7 @@ Meet the dedicated team driving the AI Student Association forward. Click on the
   </div>
 
   <div style="flex: 1;">
-    <img src="assets/Path_To_PhD_Flyer.png" alt="Path to Ph.D Flyer" width="300" />
+    <img src="/assets/Path_To_PhD_Flyer.png" alt="Path to Ph.D Flyer" width="500" />
   </div>
 
 </div>
