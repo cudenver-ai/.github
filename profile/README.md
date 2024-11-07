@@ -57,17 +57,14 @@ Meet the dedicated team driving the AI Student Association forward. Click on the
 <div style="display: flex; align-items: center;">
 
   <div style="flex: 1;">
-    <h3>Path to Ph.D</h3>
     <p>Join us for an insightful event on the journey to obtaining a Ph.D. in AI and related fields. Learn from experienced researchers and get tips on navigating the doctoral process.</p>
-    <a href="https://www.instagram.com/p/DCAthg-NStJ/" target="_blank">Learn More</a>
   </div>
 
   <div style="flex: 1;">
     <img src="/assets/Path_To_PhD_Flyer.png" alt="Path to Ph.D Flyer" width="500" />
   </div>
-
+    <a href="https://www.instagram.com/p/DCAthg-NStJ/" target="_blank">Learn More</a>
 </div>
-
 
 ---
 
